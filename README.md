@@ -126,4 +126,4 @@ MIT License. Consulte o arquivo `LICENSE` para detalhes.
 
 ---
 
-**Desenvolvido por:** Marlon Vinicius e Marcos Vinicius
+**Desenvolvido por:** [Marlon Vinicius](https://github.com/marlon-vinicius) e [Marcos Vinicius](https://github.com/MVHespanholo)
